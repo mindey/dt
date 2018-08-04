@@ -16,5 +16,5 @@ mousepad
 /home/mindey/utils/xfce4screenshotter.py
 
 # Record Screen: Ctrl+PrintScreen
-xfce4-terminal --geometry=60x8+1400+800 -e "bash -c 'cd /home/mindey/Videos/shots/ && /home/mindey/utils/recordscreen.py; exec bash'"
+xfce4-terminal --geometry=60x8+1400+800 -e "bash -c 'cd /home/mindey/Videos/shots/ && /home/mindey/Projects/System/utils/recordscreen.py; exec bash'"
 ```
